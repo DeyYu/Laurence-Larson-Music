@@ -1,0 +1,28 @@
+.News{
+    padding: 10px;
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.NewsCard{
+    display: flex;
+    background-color:#56666b;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+.NewsCardImg{
+    width: 256px;
+    height: 256px;
+}
+.NewsCardText{
+    padding: 3px;
+    color: white;
+}
+.NewsTitle{
+    font-weight: bold;
+    align-content: center;
+    display: flex;
+    color: white;
+}

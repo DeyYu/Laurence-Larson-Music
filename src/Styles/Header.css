@@ -1,0 +1,44 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #1b1b1d;
+}
+.HeaderLogo{
+    color: #767466;
+    font-size: larger;
+    font-weight: bold;
+}
+.HeaderNavUl{
+    font-weight: bold;
+
+}
+.HeaderNavLi{
+    display: inline-block;
+    padding: 3px;
+    color: #767466;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+li:hover{
+    color:#56666b;
+}
+
+.HeaderUserIcon{
+    font-size: larger;
+    color: #767466;
+    padding: 3px;
+}
+.HeaderUserMenuTitle{
+    font-weight: bold;
+    padding: 3px;
+}
+.HeaderUserMenuli{
+    color: #172230;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 24px;
+    margin: 2px;
+    display: block;
+}

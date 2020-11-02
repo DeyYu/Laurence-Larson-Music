@@ -1,0 +1,16 @@
+.Footer{
+    background-color: #1b1b1d;
+    text-align: center;
+    padding: 3px;
+    font-size: xx-small;
+    max-width: 100%;
+}
+.FooterSocial{
+    font-size: xx-large;
+    color: #767466;
+    padding: 8px;
+    cursor: pointer;
+}
+.FooterCopy{
+    color: #767466;
+}
